@@ -2,9 +2,4 @@
 
 
 
-```python
 
-print("Hello")
-
-
-```
