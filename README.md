@@ -1,1 +1,10 @@
 # abbas
+
+
+
+``python
+
+print("Hello")
+
+
+``
